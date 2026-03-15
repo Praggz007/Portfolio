@@ -75,19 +75,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Netflix Home Page layout",
-    des: "Created the Netflix Home Page using basic html,css and js.",
-    img: "/nett.svg",
+    title: "Messy Matters",
+    des: "Messy-Matter is a web-based hostel mess management system that lets students give feedback on meals and wardens track ratings, complaints, and update menus in real time",
+    img: "/mw.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://mess-matter.vercel.app/",
   },
   {
     id: 2,
-    title: "To-do list APP",
-    des: "A simple to do list app to keep track of your daily tasks.",
+    title: "MOODIFY",
+    des: "Moodify is a machine learning–driven web app that recommends and plays music based on a user’s mood, age, and preferences, integrating with Spotify for personalized playlists.",
     img: "/check.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://moodify-26i6.onrender.com",
   },
 ];
 
